@@ -247,9 +247,9 @@ dnslib==0.9.23 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:310196d3e38ce2051b61eebbd2f1d08fcc934fa3360f22031864d16efe8bca77 \
     --hash=sha256:46137e8ef6ef52b24a16d47e0786a99dd103ab1e71eea616f21371accbccc557 \
     --hash=sha256:9eb851ac721eea51834d43795478ac9b48272c61ba97cc4a160668b50aff39ec
-dnspython==2.4.2 ; python_version >= "3.11" and python_version < "4.0" \
-    --hash=sha256:57c6fbaaeaaf39c891292012060beb141791735dbb4004798328fc2c467402d8 \
-    --hash=sha256:8dcfae8c7460a2f84b4072e26f1c9f4101ca20c071649cb7c34e8b6a93d58984
+dnspython==2.9.2 ; python_version >= "3.11" and python_version < "4.0" \
+    --hash=sha256:8d4d39a513e649d634004ce4d39ade2352efcea472a0247535a5c2d18a9d7ba9 \
+    --hash=sha256:af15f7d385a6ae2fb35a796fde2138004c8c42c7389090e2addc83e3b3340fd8
 dulwich==0.21.6 ; python_version >= "3.11" and python_version < "4.0" \
     --hash=sha256:008ff08629ab16d3638a9f36cfc6f5bd74b4d594657f2dc1583d8d3201794571 \
     --hash=sha256:18697b58e0fc5972de68b529b08ac9ddda3f39af27bcf3f6999635ed3da7ef68 \
